@@ -1,6 +1,6 @@
 # Exercise-CSS-Layout-Solution
-##Exercise: CSS Layout
-##Solution: Navigation Bar
-##Solution: Navigation Bar 2
-##Solution: Cover
-##Solution: Project Grid + Footer
+## Exercise: CSS Layout <br>
+## Solution: Navigation Bar <br>
+## Solution: Navigation Bar 2 <br>
+## Solution: Cover <br>
+## Solution: Project Grid + Footer <br>
